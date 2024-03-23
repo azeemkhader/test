@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 23 Mar 2024 22:11:56 at https://xpovio-ltr.vercel.app/?storefront=envato-elements +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://xpovio-ltr.vercel.app/?storefront=envato-elements -O1 "C:\Users\Azeem\Documents\test" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:13:39	Error: 	"Not Found" (404) at link https://xpovio-ltr.vercel.app/404 (from https://xpovio-ltr.vercel.app/?storefront=envato-elements)
+22:13:55	Error: 	"Not Found" (404) at link https://xpovio-ltr.vercel.app/'/images/footer/footer-bg.png' (from https://xpovio-ltr.vercel.app/?storefront=envato-elements)
+22:13:55	Error: 	"Not Found" (404) at link https://xpovio-ltr.vercel.app/'/images/banner/banner-two-bg.png' (from https://xpovio-ltr.vercel.app/index-two)
+22:13:55	Error: 	"Not Found" (404) at link https://xpovio-ltr.vercel.app/assets/images/cta-bg.png (from https://xpovio-ltr.vercel.app/index-two)
+22:13:55	Error: 	"Not Found" (404) at link https://xpovio-ltr.vercel.app/'/images/banner/banner-three-bg.png' (from https://xpovio-ltr.vercel.app/index-three)
+22:13:55	Error: 	"Not Found" (404) at link https://xpovio-ltr.vercel.app/'/images/banner/banner-two-bg-two.png' (from https://xpovio-ltr.vercel.app/index-three)
+22:13:55	Error: 	"Not Found" (404) at link https://xpovio-ltr.vercel.app/'/images/banner/banner-two-bg-three.png' (from https://xpovio-ltr.vercel.app/index-three)
+22:13:55	Error: 	"Not Found" (404) at link https://xpovio-ltr.vercel.app/'/images/work/thumb-one.png' (from https://xpovio-ltr.vercel.app/index-three)
+22:13:55	Error: 	"Not Found" (404) at link https://xpovio-ltr.vercel.app/'/images/cta-two-bg.png' (from https://xpovio-ltr.vercel.app/index-three)
+22:13:55	Error: 	"Not Found" (404) at link https://xpovio-ltr.vercel.app/'/images/banner/cmn-banner-bg.png' (from https://xpovio-ltr.vercel.app/about-us)
+22:13:55	Error: 	"Not Found" (404) at link https://xpovio-ltr.vercel.app/'/images/teams/bg.png' (from https://xpovio-ltr.vercel.app/about-us)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 59 seconds : 238 links scanned, 226 files written (32681284 bytes overall) [26008791 bytes received at 218561 bytes/sec], 11164552 bytes transferred using HTTP compression in 91 files, ratio 37%, 39.6 requests per connection
+(11 errors, 0 warnings, 0 messages)
